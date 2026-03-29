@@ -47,8 +47,8 @@ Right now the script:
 
 Run:
 
-python parser_regex.py sample_auth.log
+python parser_regex.py test.log
 
 or:
 
-python parser_string_index.py sample_auth.log
+python parser_string_index.py test.log
